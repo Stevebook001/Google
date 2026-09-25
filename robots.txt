@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stevebook001.github.io/Google/sitemap.xml
